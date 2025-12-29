@@ -33,6 +33,6 @@ The Credit Card Fraud Analysis Dashboard consolidates key metrics to support ris
 
 ### Fraud & Transaction Insights
 <p align= "center">
-  <img scr = "avg_amount_by_type.png" alt = "Avg Amount by Type" height = "600" width = "400"/> 
+![Credit Card Fraud Analysis Dashboard](Dashboard 1 (22).png)
 </p>
   
