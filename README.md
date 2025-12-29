@@ -32,4 +32,7 @@ The Credit Card Fraud Analysis Dashboard consolidates key metrics to support ris
 - Peak Fraud Hours: Late morning and early evening hours show elevated fraud activity.
 
 ### Fraud & Transaction Insights
-![Avg amount by type](images/avg_amount_by_type.png)
+<p align= "center">
+  <img scr = "avg_amount_by_type.png" alt = "Avg Amount by Type" height = "600" width = "400"/> 
+</p>
+  
